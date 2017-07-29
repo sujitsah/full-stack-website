@@ -1,0 +1,17 @@
+{
+  "name": "sujit portfilio",
+  "description": "portfolio",
+  "main": "server.js",
+  "authors": [
+    "sujit sah <sujitsah60@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7"
+  },
+  "install": {
+    "path": "/client/libs"
+  }
+}
